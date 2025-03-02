@@ -1,0 +1,17 @@
+------ Home Work ------
+
+    toltips
+    scrolspy
+    placeholder
+    offcanves
+    navs & tabs
+    navbar
+    modal
+    collapse
+    carousel
+    card
+    button
+    accordion
+
+
+
